@@ -27,7 +27,7 @@ No
 ```
 translated (by machine 🤖) as:
 ```
-아니
+아니요
 ```
 
 
@@ -57,7 +57,7 @@ Title
 ```
 translated (by machine 🤖) as:
 ```
-이름
+제목
 ```
 
 
@@ -77,7 +77,7 @@ Do you really want to delete this marker?
 ```
 translated (by machine 🤖) as:
 ```
-당신은 정말이 마커를 삭제 하시겠습니까?
+당신은 정말 이 마커를 삭제 하시겠습니까?
 ```
 
 
@@ -157,7 +157,7 @@ Failed to create new folder, it already exists
 ```
 translated (by machine 🤖) as:
 ```
-새 폴더를 만들 수 없습니다, 그것은 이미 존재
+새 폴더를 만들 수 없습니다, 그것은 이미 존재합니다
 ```
 
 
@@ -167,7 +167,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by machine 🤖) as:
 ```
-폴더의 이름을 변경하는 데 실패, 대상 이름이 이미 존재합니다
+폴더의 이름을 변경하는 데 실패했습니다, 대상 이름이 이미 존재합니다
 ```
 
 
@@ -197,7 +197,7 @@ Import markers
 ```
 translated (by machine 🤖) as:
 ```
-가져 오기 마커
+마커 가져오기
 ```
 
 
@@ -207,7 +207,7 @@ File imported successfully
 ```
 translated (by machine 🤖) as:
 ```
-파일을 성공적으로 가져
+파일을 성공적으로 가져왔습니다
 ```
 
 
@@ -217,7 +217,7 @@ File import failed
 ```
 translated (by machine 🤖) as:
 ```
-파일 가져 오기 실패
+파일 가져오기 실패
 ```
 
 
@@ -237,7 +237,7 @@ Location services are disabled. To get your current location you must enable the
 ```
 translated (by machine 🤖) as:
 ```
-위치 서비스는 사용할 수 없습니다. 현재 위치를 얻으려면 당신이 그들을 사용하도록 설정해야합니다.
+위치 서비스는 사용할 수 없습니다. 현재 위치를 얻으려면 당신이 그것을 사용하도록 설정해야합니다.
 ```
 
 
@@ -267,7 +267,7 @@ Search
 ```
 translated (by machine 🤖) as:
 ```
-수색
+검색
 ```
 
 
@@ -287,7 +287,7 @@ Do you want to import the content of this file?
 ```
 translated (by machine 🤖) as:
 ```
-이 파일의 내용을 가져 하시겠습니까?
+이 파일의 내용을 가져오시겠습니까?
 ```
 
 
@@ -327,7 +327,7 @@ Share
 ```
 translated (by machine 🤖) as:
 ```
-몫
+공유
 ```
 
 
@@ -379,7 +379,7 @@ Send email...
 ```
 translated (by machine 🤖) as:
 ```
-보내기 email...
+email 보내기...
 ```
 
 
@@ -441,7 +441,7 @@ Marker details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-마커 정보는 클립 보드에 복사
+마커 정보를 클립 보드에 복사했습니다
 ```
 
 
@@ -461,7 +461,7 @@ Delete folder
 ```
 translated (by machine 🤖) as:
 ```
-폴더를 삭제
+폴더 삭제
 ```
 
 
@@ -481,7 +481,7 @@ Could not find another map application
 ```
 translated (by machine 🤖) as:
 ```
-다른지도 응용 프로그램을 찾을 수 없습니다
+다른 지도 응용 프로그램을 찾을 수 없습니다
 ```
 
 
@@ -491,7 +491,7 @@ Move the map around to place your marker where you want and click OK to place it
 ```
 translated (by machine 🤖) as:
 ```
-당신이 원하는 당신의 마커를 배치하는 주변의지도를 이동하여 배치 확인을 클릭합니다
+당신이 원하는 당신의 마커를 배치하는 주변의 지도를 이동하여 배치 확인을 클릭합니다
 ```
 
 
@@ -941,7 +941,7 @@ Create cloud map
 ```
 translated (by machine 🤖) as:
 ```
-구름지도 만들기
+클라우드 지도 만들기
 ```
 
 
@@ -951,7 +951,7 @@ Create a map file on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-구름에 맵 파일을 만듭니다
+클라우드에 맵 파일을 만듭니다
 ```
 
 
@@ -1001,7 +1001,7 @@ Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
 translated (by machine 🤖) as:
 ```
-구입해 주셔서 감사합니다 Map Marker 프리미엄 업그레이드를 :-)
+Map Marker 프리미엄 업그레이드를 구입해 주셔서 감사합니다 :-)
 ```
 
 
@@ -1021,7 +1021,7 @@ Upgrade to premium and take full advantage of Map Marker features!
 ```
 translated (by machine 🤖) as:
 ```
-프리미엄으로 업그레이드하고 최대한 활용할 Map Marker 기능을!
+프리미엄으로 업그레이드하고 Map Marker의 기능을 최대한 활용하세요!
 ```
 
 
@@ -1051,7 +1051,7 @@ Open a list of actions to solve possible problems
 ```
 translated (by machine 🤖) as:
 ```
-가능한 문제를 해결하기 위해 작업 목록을 엽니 다
+가능한 문제를 해결하기 위해 작업 목록을 엽니다
 ```
 
 
@@ -1161,7 +1161,7 @@ Share cloud map
 ```
 translated (by machine 🤖) as:
 ```
-공유 구름지도
+클라우드 지도 공유
 ```
 
 
